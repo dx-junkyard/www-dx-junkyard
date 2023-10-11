@@ -2,7 +2,7 @@
 title: "OpenData Bridge"
 excerpt: "オープンデータを作る人と使う人を繋げるプラットフォーム"
 date: "2023-10-11T20:00:00.000Z"
-ongoing: true
+tag: "ongoing"
 ogImage:
   url: "/assets/project/opendata-bridge/cover.png"
 ---

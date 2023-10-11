@@ -2,7 +2,7 @@
 title: "Sports Barrier-free Hub"
 excerpt: "西東京市民（障がい者含む）のスポーツ実施率が向上するシステム"
 date: "2023-03-11T12:00:00.000Z"
-ongoing: false
+tag: "ongoing"
 ogImage:
   url: "/assets/project/noimage/cover.jpg"
 ---

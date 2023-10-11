@@ -1,6 +1,5 @@
 import Container from "../components/container";
 import MoreStories from "../components/more-stories";
-import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
@@ -13,8 +12,8 @@ type Props = {
 };
 
 export default function Index({ allPosts }: Props) {
-  const ongoingProjects = allPosts.filter((post) => post.ongoing);
-  const completeProjects = allPosts.filter((post) => !post.ongoing);
+  const ongoingProjects = allPosts.filter((post) => post.tag === "ongoing");
+  const completeProjects = allPosts.filter((post) => post.tag === "complete");
   return (
     <>
       <Layout>
@@ -43,7 +42,7 @@ export const getStaticProps = async () => {
     "title",
     "date",
     "slug",
-    "ongoing",
+    "tag",
     "excerpt",
     "ogImage",
   ]);
