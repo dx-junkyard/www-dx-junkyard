@@ -26,7 +26,14 @@ const Footer = () => {
                 </a>
               </li>
               <li>Y.Saito</li>
-              <li>ふくもと</li>
+              <li>
+                <a
+                  href="https://github.com/fukumoto19981020"
+                  className="text-red-600 underline"
+                >
+                  fukumoto
+                </a>
+              </li>
               <li>
                 <a
                   href="https://github.com/yamamoto-ryuzo/"
