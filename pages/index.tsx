@@ -18,16 +18,16 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+          <title>{`dx-junkyard`}</title>
         </Head>
         <Container>
           <Intro />
           {ongoingProjects.length > 0 && (
-            <MoreStories title="参加中のプロジェクト" posts={ongoingProjects} />
+            <MoreStories title="実施中のプロジェクト" posts={ongoingProjects} />
           )}
           {completeProjects.length > 0 && (
             <MoreStories
-              title="過去に参加したプロジェクト"
+              title="これまで実施したプロジェクト"
               posts={completeProjects}
             />
           )}
