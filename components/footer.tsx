@@ -42,8 +42,8 @@ const Footer = () => {
           <div className="tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             <h2 className="text-xl font-bold">協力団体</h2>
             <ul className="list-disc text-left">
-              <li>CodeForJapan 武蔵野/三鷹</li>
-              <li>Vizzie + オープンデータスゴイ</li>
+              <li><a href="https://code4mm.org/">Code for Mitaka / Musashino</a></li>
+              <li>Vizzie + <a href="https://qiita.com/unbosoms/items/cb3da19a3ef0d7736a04">オープンデータスゴイ</a></li>
             </ul>
           </div>
         </div>
