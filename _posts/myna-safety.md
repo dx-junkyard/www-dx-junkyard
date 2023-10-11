@@ -2,7 +2,7 @@
 title: "マイナセーフティ"
 excerpt: "マイナポータルの認証により情報の信頼性を担保し、災害時に人々の助け合いを促進します。"
 date: "2023-06-12T12:00:00.000Z"
-tag: "ongoing"
+tag: "complete"
 ogImage:
   url: "/assets/project/noimage/cover.jpg"
 ---

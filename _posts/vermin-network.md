@@ -2,7 +2,7 @@
 title: "奥多摩町害獣被害ネットワーク・奥多摩町獣害確認アプリ"
 excerpt: "害獣を見かけた時に、その場で害獣の種類・位置情報・写真を６タップで簡単に報告できるシステム"
 date: "2023-03-11T12:00:00.000Z"
-tag: "ongoing"
+tag: "complete"
 ogImage:
   url: "/assets/project/noimage/cover.jpg"
 ---
