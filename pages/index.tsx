@@ -26,7 +26,7 @@ export default function Index({ allPosts }: Props) {
           )}
           {completeProjects.length > 0 && (
             <MoreStories
-              title="これまで実施したプロジェクト"
+              title="今まで実施したプロジェクト"
               posts={completeProjects}
             />
           )}
