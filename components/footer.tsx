@@ -8,7 +8,14 @@ const Footer = () => {
           <div className="tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             <h2 className="text-xl font-bold">メンバー</h2>
             <ul className="list-disc text-left">
-              <li>もっちゃん</li>
+              <li>
+                <a
+                  href="https://github.com/MotoyaTakashi"
+                  className="text-red-600 underline"
+                >
+                  もっちゃん
+                </a>
+              </li>
               <li>
                 <a
                   href="https://github.com/urashin"
