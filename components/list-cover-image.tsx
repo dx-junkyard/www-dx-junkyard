@@ -20,7 +20,7 @@ const ListCoverImage = ({ title, src, slug }: Props) => {
     />
   );
   return (
-    <div className="sm:mx-0 h-[250px] md:h-[320px] relative">
+    <div className="sm:mx-0 h-[200px] md:h-[320px] relative">
       {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={title}>
           {image}
