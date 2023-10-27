@@ -8,7 +8,7 @@ type Props = {
   slug?: string;
 };
 
-const CoverImage = ({ title, src, slug }: Props) => {
+const ListCoverImage = ({ title, src, slug }: Props) => {
   const image = (
     <Image
       src={src}
@@ -16,12 +16,11 @@ const CoverImage = ({ title, src, slug }: Props) => {
       className={cn("shadow-sm mx-auto", {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
-      width={1300}
-      height={630}
+      fill
     />
   );
   return (
-    <div className="sm:mx-0">
+    <div className="sm:mx-0 h-[250px] md:h-[320px] relative">
       {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={title}>
           {image}
@@ -33,4 +32,4 @@ const CoverImage = ({ title, src, slug }: Props) => {
   );
 };
 
-export default CoverImage;
+export default ListCoverImage;

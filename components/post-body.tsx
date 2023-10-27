@@ -5,7 +5,6 @@ type Props = {
 };
 
 const PostBody = ({ content }: Props) => {
-  console.info("PostBody", content);
   return (
     <div className="max-w-2xl mx-auto">
       <div
