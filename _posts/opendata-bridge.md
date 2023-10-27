@@ -4,7 +4,7 @@ excerpt: "オープンデータを作る人と使う人を繋げるプロジェ�
 date: "2023-10-22T12:00:00.000Z"
 tag: "complete"
 ogImage:
-  url: "/assets/project/opendata-bridge/cover.png"
+  url: "/assets/project/opendata-bridge/cover.jpg"
 ---
 
 東京都が主催するオープンデータを活用して社会課題を解決するハッカソンである[東京オープンデータハッカソン 2023](https://odhackathon.metro.tokyo.lg.jp/)に参加し、

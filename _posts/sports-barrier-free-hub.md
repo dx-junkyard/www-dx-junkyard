@@ -4,7 +4,7 @@ excerpt: "西東京市民（障がい者含む）のスポーツ実施率が向�
 date: "2023-03-11T12:00:00.000Z"
 tag: "complete"
 ogImage:
-  url: "/assets/project/sports-barrier-free-hub/cover.png"
+  url: "/assets/project/sports-barrier-free-hub/cover.jpg"
 ---
 
 各団体が持つ貸出可能なスポーツ備品を一元管理でき、スポーツ活動を行うコミュニティが簡単にイベント募集を行うことができるなど、西東京市民（障がい者含む）のスポーツ実施率が向上するシステム

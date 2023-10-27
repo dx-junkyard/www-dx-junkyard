@@ -4,7 +4,7 @@ excerpt: "害獣を見かけた時に、その場で害獣の種類・位置情�
 date: "2023-03-11T12:00:00.000Z"
 tag: "complete"
 ogImage:
-  url: "/assets/project/vermin-network/cover.png"
+  url: "/assets/project/vermin-network/cover.jpg"
 ---
 
 ① 奥多摩町害獣被害ネットワーク（獣害注意報アプリ）［住民用］
