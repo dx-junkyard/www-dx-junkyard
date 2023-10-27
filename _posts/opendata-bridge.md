@@ -1,8 +1,8 @@
 ---
 title: "OpenData Bridge"
 excerpt: "オープンデータを作る人と使う人を繋げるプロジェクト"
-date: "2023-10-11T20:00:00.000Z"
-tag: "ongoing"
+date: "2023-10-22T12:00:00.000Z"
+tag: "complete"
 ogImage:
   url: "/assets/project/opendata-bridge/cover.png"
 ---
@@ -10,4 +10,7 @@ ogImage:
 東京都が主催するオープンデータを活用して社会課題を解決するハッカソンである[東京オープンデータハッカソン 2023](https://odhackathon.metro.tokyo.lg.jp/)に参加し、
 データを作る人と使う人を繋げる [OpenData-Bridge プロジェクト](https://github.com/dx-junkyard/OpenDataHackathon2023) を提案中です。
 
-無事に一次審査である First Stage を突破し、次は 10 月 22 日の Final Stage です。 ぜひ、オンライン上でご視聴ください。 [Final Stage@Peatix](https://odhackathon-tokyo-2023-final.peatix.com/)
+無事に一次審査である First Stage を突破し、10 月 22 日の Final Stage に参加しました。
+当日の映像はこちらからご覧いただけます。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GflBe2dlQPY?si=rp-NjWQvfx9GIRF_&amp;start=3166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

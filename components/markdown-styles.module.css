@@ -24,3 +24,9 @@
 .markdown a {
   @apply underline hover:text-blue-600 duration-200 transition-colors;
 }
+
+.markdown iframe[src*="youtube.com/embed"] {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+}
