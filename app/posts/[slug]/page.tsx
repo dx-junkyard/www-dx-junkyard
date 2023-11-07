@@ -7,6 +7,8 @@ import markdownToHtml from "../../../lib/markdownToHtml";
 import PostType from "../../../interfaces/post";
 import { Metadata } from "next";
 
+export const runtime = "edge";
+
 export async function generateMetadata({
   params,
 }: {
