@@ -68,14 +68,6 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/sey323"
-                  className="text-red-600 underline"
-                >
-                  sey323
-                </a>
-              </li>
-              <li>
-                <a
                   href="https://github.com/mandbjp"
                   className="text-red-600 underline"
                 >
