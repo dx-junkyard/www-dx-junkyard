@@ -4,8 +4,6 @@ import Intro from "../components/intro";
 import { getAllPosts } from "../lib/api";
 import Post from "../interfaces/post";
 
-export const runtime = "edge";
-
 export const metadata = {
   title: `dx-junkyard`,
 };
