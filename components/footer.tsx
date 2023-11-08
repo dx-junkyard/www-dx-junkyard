@@ -68,10 +68,10 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/mandbjp"
+                  href="https://github.com/orgs/dx-junkyard/people/jhjcpishva"
                   className="text-red-600 underline"
                 >
-                  mandbjp
+                  jhjcpishva
                 </a>
               </li>
               <li>
