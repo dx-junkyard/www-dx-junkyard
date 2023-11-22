@@ -13,4 +13,4 @@ ogImage:
 無事に一次審査である First Stage を突破し、10 月 22 日の Final Stage に参加しました。
 当日の映像はこちらからご覧いただけます。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GflBe2dlQPY?si=rp-NjWQvfx9GIRF_&amp;start=3166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbPL9odzQYg?si=RcFggCoKuoS7_2x6&amp;start=2581" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
