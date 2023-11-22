@@ -17,6 +17,6 @@ ogImage:
 
 # repository
 
-- https://github.com/dx-junkyard/myna-safety-liff
-- https://github.com/dx-junkyard/myna-safety-frontend
-- https://github.com/dx-junkyard/myna-safety-backend
+- [dx-junkyard/myna-safety-liff](https://github.com/dx-junkyard/myna-safety-liff)
+- [dx-junkyard/myna-safety-frontend](https://github.com/dx-junkyard/myna-safety-frontend)
+- [dx-junkyard/myna-safety-backend](https://github.com/dx-junkyard/myna-safety-backend)

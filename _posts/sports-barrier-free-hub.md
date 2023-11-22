@@ -21,16 +21,16 @@ ogImage:
 
 # repository
 
-- https://github.com/dx-junkyard/sports-barrier-free-liff
+- [dx-junkyard/sports-barrier-free-liff](https://github.com/dx-junkyard/sports-barrier-free-liff)
 
 設備貸出 API：予約、貸出管理
 
-- https://github.com/dx-junkyard/api-facility-rental-spring
+- [dx-junkyard/api-facility-rental-spring](https://github.com/dx-junkyard/api-facility-rental-spring)
 
 備品貸出 API：予約、貸出管理
 
-- https://github.com/dx-junkyard/api-equipment-rental-spring
+- [dx-junkyard/api-equipment-rental-spring](https://github.com/dx-junkyard/api-equipment-rental-spring)
 
 スポーツイベント API
 
-- https://github.com/dx-junkyard/api-sportsevent-spring
+- [dx-junkyard/api-sportsevent-spring](https://github.com/dx-junkyard/api-sportsevent-spring)
