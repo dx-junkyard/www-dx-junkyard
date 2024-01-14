@@ -4,7 +4,7 @@ import Header from "../../../components/header";
 import PostHeader from "../../../components/post-header";
 import {getAllPosts, getPostBySlug, getPostSlugs} from "@/lib/api";
 import markdownToHtml from "../../../lib/markdownToHtml";
-import PostType from "../../../interfaces/post";
+import PostType from "../../../types/post";
 import { Metadata } from "next";
 
 export const dynamic = 'auto';

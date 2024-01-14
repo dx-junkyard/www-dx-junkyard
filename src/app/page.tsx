@@ -2,7 +2,7 @@ import Container from "../components/container";
 import MoreStories from "../components/more-stories";
 import Intro from "../components/intro";
 import { getAllPosts } from "@/lib/api";
-import Post from "../interfaces/post";
+import Post from "../types/post";
 
 export const metadata = {
   title: `dx-junkyard`,
