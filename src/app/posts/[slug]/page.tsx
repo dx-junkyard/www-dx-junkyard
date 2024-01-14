@@ -2,10 +2,18 @@ import Container from "../../../components/container";
 import PostBody from "../../../components/post-body";
 import Header from "../../../components/header";
 import PostHeader from "../../../components/post-header";
-import { getPostBySlug } from "../../../lib/api";
+import {getAllPosts, getPostBySlug, getPostSlugs} from "@/lib/api";
 import markdownToHtml from "../../../lib/markdownToHtml";
 import PostType from "../../../interfaces/post";
 import { Metadata } from "next";
+
+export const dynamic = 'auto';
+export const dynamicParams = true;
+export const revalidate = false;
+export const fetchCache = 'auto';
+export const runtime = 'nodejs';
+export const preferredRegion = 'all';
+
 
 export async function generateMetadata({
   params,
@@ -41,6 +49,15 @@ export async function generateMetadata({
       ],
     },
   };
+}
+
+// Return a list of `params` to populate the [slug] dynamic segment
+export async function generateStaticParams() {
+  const posts = getAllPosts(["slug"])
+
+  return posts.map((post) => ({
+    slug: `${post.slug}`,
+  }))
 }
 
 export default async function Post({ params }: { params: { slug: string } }) {

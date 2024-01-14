@@ -22,4 +22,4 @@ ogImage:
 
 # repository
 
-- https://github.com/dx-junkyard/vermin-network-bot
+- [dx-junkyard/vermin-network-bot](https://github.com/dx-junkyard/vermin-network-bot)

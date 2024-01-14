@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
-import "../styles/index.css";
-import { HOME_OG_IMAGE_URL } from "../lib/constants";
+import "@/styles/index.css";
+import { HOME_OG_IMAGE_URL } from "@/lib/constants";
 
 export default async function RootLayout({
   children,

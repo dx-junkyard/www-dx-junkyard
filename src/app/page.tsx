@@ -1,7 +1,7 @@
 import Container from "../components/container";
 import MoreStories from "../components/more-stories";
 import Intro from "../components/intro";
-import { getAllPosts } from "../lib/api";
+import { getAllPosts } from "@/lib/api";
 import Post from "../interfaces/post";
 
 export const metadata = {
