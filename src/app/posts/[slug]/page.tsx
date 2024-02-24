@@ -2,7 +2,7 @@ import Container from "../../../components/container";
 import PostBody from "../../../components/post-body";
 import Header from "../../../components/header";
 import PostHeader from "../../../components/post-header";
-import {getAllPosts, getPostBySlug, getPostSlugs} from "@/lib/api";
+import {getAllPosts, getPostBySlug} from "@/lib/api";
 import markdownToHtml from "../../../lib/markdownToHtml";
 import PostType from "../../../types/post";
 import { Metadata } from "next";
@@ -53,10 +53,11 @@ export async function generateMetadata({
 
 // Return a list of `params` to populate the [slug] dynamic segment
 export async function generateStaticParams() {
-  const posts = getAllPosts(["slug"])
+  const posts = getAllPosts(["slug", "tag"])
 
-  return posts.map((post) => ({
-    slug: `${post.slug}`,
+  return posts
+      .filter((post) => post.tag !== "draft")
+      .map((post) => ({slug: `${post.slug}`,
   }))
 }
 

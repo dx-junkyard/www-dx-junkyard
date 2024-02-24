@@ -21,7 +21,7 @@ export default function Index() {
       ...post,
       date: post.date,
     } as Post;
-  });
+  }).filter((post) => post.tag !== "draft");
 
   const ongoingProjects = allPosts.filter((post) => post.tag === "ongoing");
   const completeProjects = allPosts.filter((post) => post.tag === "complete");
