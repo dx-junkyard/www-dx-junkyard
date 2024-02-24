@@ -1,4 +1,4 @@
-export type Tag = "ongoing" | "complete";
+export type Tag = "ongoing" | "complete" | "draft";
 
 type PostType = {
   slug: string;
