@@ -100,7 +100,9 @@ const Footer = () => {
           </div>
         </div>
       </Container>
-      <div className="text-center my-4">&copy; 2023 dx-junkyard</div>
+      <div className="text-center my-4">&copy; {
+        new Date().getFullYear()
+      } dx-junkyard</div>
     </footer>
   );
 };
