@@ -1,6 +1,6 @@
 # www.dx-junkyard.com
 
-dx-junkyard の紹介ページです
+dx-junkyard の紹介サイトです
 
 # Notes
 
