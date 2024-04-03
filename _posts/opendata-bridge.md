@@ -10,7 +10,7 @@ ogImage:
 東京都が主催するオープンデータを活用して社会課題を解決するハッカソンである[東京オープンデータハッカソン 2023](https://odhackathon.metro.tokyo.lg.jp/)に参加し、
 データを作る人と使う人を繋げる [OpenData-Bridge プロジェクト](https://github.com/dx-junkyard/OpenDataHackathon2023) を提案中です。
 
-無事に一次審査である First Stage を突破し、10 月 22 日の Final Stage に参加しました。
+First Stage を突破し、3 月 16 日の DemoDay に参加しました。
 当日の映像はこちらからご覧いただけます。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbPL9odzQYg?si=RcFggCoKuoS7_2x6&amp;start=2581" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrIohSqZYEY?si=niEP9UqBinuG9Bjj&amp;start=5724" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
